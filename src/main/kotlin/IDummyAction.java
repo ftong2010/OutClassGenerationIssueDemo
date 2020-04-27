@@ -1,3 +1,3 @@
-public interface IDummyAction<T> {
-    T doAction(int count);
+public interface IDummyAction {
+    void doAction();
 }
